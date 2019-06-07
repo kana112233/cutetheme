@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>org.py.theme.cutetheme</id>
+    <name>cute UI Theme</name>
+    <vendor email="makey22112@gmail.com" url="https://github.com/kana112233/cutetheme.git">https://github.com/kana112233/cutetheme.git</vendor>
+
+    <description><![CDATA[
+     UI Theme with the colors of the
+        https://github.com/kana112233/cutetheme.git
+    ]]></description>
+
+    <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <!-- uncomment to enable plugin in all products
+    <depends>com.intellij.modules.lang</depends>
+    -->
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="2684d9a6-720d-413b-91dd-ced5a62b096d" path="/cute.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
