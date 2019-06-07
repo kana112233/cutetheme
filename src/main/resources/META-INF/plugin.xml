@@ -1,10 +1,10 @@
 <idea-plugin>
     <id>org.py.theme.cutetheme</id>
     <name>cute UI Theme</name>
-    <vendor email="makey22112@gmail.com" url="https://github.com/kana112233/cutetheme.git">https://github.com/kana112233/cutetheme.git</vendor>
+    <vendor email="makey22112@gmail.com" url="https://plugins.jetbrains.com/plugin/12522-cute-ui-theme">https://github.com/kana112233/cutetheme.git</vendor>
 
     <description><![CDATA[
-     UI Theme with the colors of the
+     UI Theme protect eyes
         https://github.com/kana112233/cutetheme.git
     ]]></description>
 
